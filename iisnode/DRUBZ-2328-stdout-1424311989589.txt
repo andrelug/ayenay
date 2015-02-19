@@ -1,0 +1,25 @@
+[33m
+##############################################################
+#
+#   !!! MONGOOSE WARNING !!!
+#
+#   This is an UNSTABLE release of Mongoose.
+#   Unstable releases are available for preview/testing only.
+#   DO NOT run this in production.
+#
+##############################################################
+[0m
+Express server listening on port \\.\pipe\559a4353-4202-4932-ac1e-990b2e44bafa
+[90mGET / [32m200 [90m157ms - 2.29kb[0m
+[90mGET /stylesheets/vendor/side-comments.min.css [33m404 [90m44ms[0m
+[90mGET /stylesheets/base/normalize.css [32m200 [90m57ms - 7.82kb[0m
+[90mGET /stylesheets/vendor/jqueryUi.css [32m200 [90m56ms - 1.77kb[0m
+[90mGET /stylesheets/vendor/default-theme.min.css [32m200 [90m57ms - 3.26kb[0m
+[90mGET /stylesheets/base/foundation.css [32m200 [90m61ms - 146.34kb[0m
+[90mGET /javascripts/vendor/modernizr.js [32m200 [90m15ms - 11kb[0m
+[90mGET /javascripts/vendor/fastclick.js [32m200 [90m22ms - 8.19kb[0m
+[90mGET /javascripts/vendor/placeholder.js [32m200 [90m24ms - 2.05kb[0m
+[90mGET /stylesheets/style.css [32m200 [90m84ms - 0b[0m
+[90mGET /javascripts/foundation.min.js [32m200 [90m8ms - 85.83kb[0m
+[90mGET /javascripts/app.js [32m200 [90m5ms - 16.16kb[0m
+[90mGET /images/favicon.png [33m404 [90m3ms[0m

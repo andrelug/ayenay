@@ -1,0 +1,4 @@
+connect.multipart() will be removed in connect 3.0
+visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+connect.limit() will be removed in connect 3.0
+Thu, 19 Feb 2015 02:09:23 GMT connect-mongo deprecated mongoose_connection option is deprecated. Use mongooseConnection instead at server.js:28:38

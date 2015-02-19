@@ -1,0 +1,16 @@
+connect.multipart() will be removed in connect 3.0
+visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+connect.limit() will be removed in connect 3.0
+Thu, 19 Feb 2015 02:01:39 GMT connect-mongo deprecated mongoose_connection option is deprecated. Use mongooseConnection instead at server.js:28:38
+Application has thrown an uncaught exception and is terminated:
+Error: Cannot find module './app/personalized.js'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Function.cls_wrapMethod [as _load] (E:\Andre\Documentos\My Web Sites\ayenay\node_modules\newrelic\lib\shimmer.js:209:38)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (E:\Andre\Documentos\My Web Sites\ayenay\server.js:81:1)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)

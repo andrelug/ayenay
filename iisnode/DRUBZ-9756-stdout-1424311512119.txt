@@ -1,0 +1,20 @@
+[33m
+##############################################################
+#
+#   !!! MONGOOSE WARNING !!!
+#
+#   This is an UNSTABLE release of Mongoose.
+#   Unstable releases are available for preview/testing only.
+#   DO NOT run this in production.
+#
+##############################################################
+[0m
+Express server listening on port \\.\pipe\6dbeda7d-b06d-4c3e-afc1-68df90ad6c6a
+[90mGET / [32m200 [90m149ms - 2.02kb[0m
+[90mGET /stylesheets/base/foundation.css [33m404 [90m5ms[0m
+[90mGET /stylesheets/base/normalize.css [33m404 [90m5ms[0m
+[90mGET /stylesheets/vendor/jqueryUi.css [33m404 [90m5ms[0m
+[90mGET /stylesheets/vendor/side-comments.min.css [33m404 [90m6ms[0m
+[90mGET /stylesheets/vendor/default-theme.min.css [33m404 [90m3ms[0m
+[90mGET /javascripts/vendor/modernizr.js [33m404 [90m4ms[0m
+[90mGET /images/favicon.png [33m404 [90m3ms[0m

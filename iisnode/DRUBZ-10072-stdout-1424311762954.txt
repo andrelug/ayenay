@@ -1,0 +1,42 @@
+[33m
+##############################################################
+#
+#   !!! MONGOOSE WARNING !!!
+#
+#   This is an UNSTABLE release of Mongoose.
+#   Unstable releases are available for preview/testing only.
+#   DO NOT run this in production.
+#
+##############################################################
+[0m
+Express server listening on port \\.\pipe\357452b0-273f-48c0-9129-2d81985fa28e
+[90mGET / [32m200 [90m165ms - 2.34kb[0m
+[90mGET /stylesheets/vendor/side-comments.min.css [33m404 [90m6ms[0m
+[90mGET / [32m200 [90m24ms - 5.78kb[0m
+[90mGET /stylesheets/vendor/side-comments.min.css [33m404 [90m9ms[0m
+[90mGET / [32m200 [90m17ms - 5.78kb[0m
+[90mGET /stylesheets/vendor/side-comments.min.css [33m404 [90m5ms[0m
+[90mGET / [32m200 [90m20ms - 5.78kb[0m
+[90mGET /stylesheets/vendor/side-comments.min.css [33m404 [90m5ms[0m
+[90mGET /stylesheets/vendor/jqueryUi.css [32m200 [90m57ms - 1.77kb[0m
+[90mGET /stylesheets/vendor/default-theme.min.css [32m200 [90m59ms - 3.26kb[0m
+[90mGET /stylesheets/base/normalize.css [32m200 [90m65ms - 7.82kb[0m
+[90mGET /stylesheets/base/foundation.css [32m200 [90m70ms - 146.34kb[0m
+[90mGET /javascripts/vendor/modernizr.js [32m200 [90m11ms - 11kb[0m
+[90mGET /stylesheets/style.css [32m200 [90m78ms - 35b[0m
+[90mGET /javascripts/vendor/fastclick.js [32m200 [90m18ms - 8.19kb[0m
+[90mGET /javascripts/vendor/placeholder.js [32m200 [90m19ms - 2.05kb[0m
+[90mGET /javascripts/app.js [32m200 [90m5ms - 16.16kb[0m
+[90mGET /javascripts/foundation.min.js [32m200 [90m8ms - 85.83kb[0m
+[90mGET / [32m200 [90m24ms - 5.78kb[0m
+[90mGET /stylesheets/base/normalize.css [36m304 [90m11ms[0m
+[90mGET /stylesheets/base/foundation.css [36m304 [90m12ms[0m
+[90mGET /stylesheets/vendor/jqueryUi.css [36m304 [90m13ms[0m
+[90mGET /stylesheets/vendor/side-comments.min.css [33m404 [90m15ms[0m
+[90mGET /javascripts/vendor/modernizr.js [36m304 [90m18ms[0m
+[90mGET /javascripts/vendor/fastclick.js [36m304 [90m18ms[0m
+[90mGET /javascripts/vendor/placeholder.js [36m304 [90m20ms[0m
+[90mGET /stylesheets/vendor/default-theme.min.css [36m304 [90m27ms[0m
+[90mGET /javascripts/foundation.min.js [36m304 [90m3ms[0m
+[90mGET /javascripts/app.js [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [32m200 [90m54ms - 35b[0m

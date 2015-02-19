@@ -1,0 +1,14 @@
+[33m
+##############################################################
+#
+#   !!! MONGOOSE WARNING !!!
+#
+#   This is an UNSTABLE release of Mongoose.
+#   Unstable releases are available for preview/testing only.
+#   DO NOT run this in production.
+#
+##############################################################
+[0m
+Express server listening on port \\.\pipe\fdc7297d-9714-4c56-b2ae-4ace4dc6fd01
+[90mGET / [31m500 [90m122ms[0m
+[90mGET / [31m500 [90m8ms[0m
